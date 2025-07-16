@@ -39,7 +39,6 @@ If you encounter any problems, you can seek help from [Discord](https://discord.
 If you find our work useful for your research or application, please cite our paper:
 
 1. [AI2Apps](https://arxiv.org/abs/2404.04902?context=cs.SE)
-2. [AI2Agent](https://arxiv.org/abs/2503.23948)
 
 ```
 @article{pang2024ai2apps,
@@ -47,6 +46,17 @@ If you find our work useful for your research or application, please cite our pa
   author={Pang, Xin and Li, Zhucong and Chen, Jiaxiang and Cheng, Yuan and Xu, Yinghui and Qi, Yuan},
   journal={arXiv preprint arXiv:2404.04902},
   year={2024}
+}
+```
+
+2. [AI2Agent](https://arxiv.org/abs/2503.23948)
+
+```
+@article{chen2025ai2agent,
+  title={AI2Agent: An End-to-End Framework for Deploying AI Projects as Autonomous Agents},
+  author={Chen, Jiaxiang and Shi, Jingwei and Gan, Lei and Zhang, Jiale and Zhang, Qingyu and Zhang, Dongqian and Pang, Xin and Li, Zhucong and Xu, Yinghui},
+  journal={arXiv preprint arXiv:2503.23948},
+  year={2025}
 }
 ```
 

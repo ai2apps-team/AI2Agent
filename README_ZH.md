@@ -14,9 +14,15 @@
 
 ### 自动部署
 
+一句话部署 Github 开源项目。
+
 #### 安装
 
+点击自动部署 Agent 模块的下载图标，即可完成安装。安装成功后，下载图标将变更为绿色图标。
+
 #### 使用
+
+录制的视频
 
 #### 升级
 
@@ -31,7 +37,6 @@
 如果您觉得我们的工作对您的研究或应用有帮助，请引用我们的论文： 
 
 1. [AI2Apps](https://arxiv.org/abs/2404.04902?context=cs.SE)
-2. [AI2Agent](https://arxiv.org/abs/2503.23948) 
 
 ```
 @article{pang2024ai2apps,
@@ -39,6 +44,17 @@
   author={Pang, Xin and Li, Zhucong and Chen, Jiaxiang and Cheng, Yuan and Xu, Yinghui and Qi, Yuan},
   journal={arXiv preprint arXiv:2404.04902},
   year={2024}
+}
+```
+
+2. [AI2Agent](https://arxiv.org/abs/2503.23948)
+
+```
+@article{chen2025ai2agent,
+  title={AI2Agent: An End-to-End Framework for Deploying AI Projects as Autonomous Agents},
+  author={Chen, Jiaxiang and Shi, Jingwei and Gan, Lei and Zhang, Jiale and Zhang, Qingyu and Zhang, Dongqian and Pang, Xin and Li, Zhucong and Xu, Yinghui},
+  journal={arXiv preprint arXiv:2503.23948},
+  year={2025}
 }
 ```
 
