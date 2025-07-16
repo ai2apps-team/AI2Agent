@@ -29,8 +29,7 @@
 
 如果您觉得我们的工作对您的研究或应用有帮助，请引用我们的论文： 
 1. [AI2Apps](https://arxiv.org/abs/2404.04902?context=cs.SE)
-2. [AI2Agent](https://arxiv.org/abs/2503.23948)
-
+2. [AI2Agent](https://arxiv.org/abs/2503.23948) 
 
 ```
 @article{pang2024ai2apps,
@@ -44,5 +43,3 @@
 ## 📃 了解更多
 
 如果您想了解更多有关 AI2Agent 的详细信息，请参阅 [AI2Apps](https://github.com/Avdpro/ai2apps/blob/main/README.md)。
-
-

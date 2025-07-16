@@ -34,6 +34,3 @@ If you find our work useful for your research or application, please cite our pa
 ## 📃 Get More
 
 If you want to get more details about AI2Agent, please see [Ai2Apps](https://github.com/Avdpro/ai2apps/blob/main/README.md). 
-
-
-
