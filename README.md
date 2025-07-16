@@ -66,4 +66,4 @@ If you want to build an agent yourself, you can refer to the [AgentBuilder](http
 
 ## 📖 Get More
 
-If you want to get more details about AI2Agent, please see [Ai2Apps](https://github.com/Avdpro/ai2apps/blob/main/README.md). 
+If you want to get more details about AI2Agent, please see [AI2Apps](https://github.com/Avdpro/ai2apps/blob/main/README.md). 
