@@ -14,30 +14,19 @@
 
 ### 自动部署
 
-
-
 <!-- #### 安装
-
-
 #### 使用
-
-
 #### 升级
-
-
 #### 卸载 -->
-
 
 <!-- case视频？ -->
 
-
-
-
 ## 💟 社区互助
 
-如果您在使用的过程中碰到问题，可以通过 [飞书](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=01ao0c08-31dd-4dcf-9947-d645796e2dae) 或 [Discord](https://discord.gg/qgqeaWk62e) 寻求帮助。
+如果您在使用的过程中碰到任何问题，可以通过 [飞书](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=01ao0c08-31dd-4dcf-9947-d645796e2dae) 或 [Discord](https://discord.gg/qgqeaWk62e) 寻求帮助。
 
 ## 📝 引用
+
 如果您觉得我们的工作对您的研究或应用有帮助，请引用我们的论文： 
 1. [AI2Apps](https://arxiv.org/abs/2404.04902?context=cs.SE)
 2. [AI2Agent](https://arxiv.org/abs/2503.23948)
