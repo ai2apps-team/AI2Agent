@@ -12,7 +12,7 @@
 
 ### AutoDeploy Agent
 
-We only need one sentence to use the AutoDeploy Agent to deploy the github open-source project for us.
+Deploy a github open-source project in one sentence.
 
 #### Install
 
