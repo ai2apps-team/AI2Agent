@@ -12,13 +12,32 @@
 
 ### AutoDeploy Agent
 
-## 💟 Getting help
+We only need one sentence to use the AutoDeploy Agent to deploy the github open-source project for us.
+
+#### Install
+
+To install AutoDeploy Agent, you need to click the download icon in AutoDeploy Agent moudle. If a green icon is displayed, it indicates that the agent has been successfully installed.
+
+#### Use
+
+AutoDeploy Agent video
+
+#### Update 
+
+To update AutoDeploy Agent, you need to click the update icon in AutoDeploy Agent moudle. If a green icon is displayed, it indicates that the agent has been successfully updated.
+
+<!-- #### Delete 
+
+To delete AutoDeploy Agent, you need to click the delete icon in AutoDeploy Agent moudle. -->
+
+## 💟 Get help
 
 If you encounter any problems, you can seek help from [Discord](https://discord.gg/qgqeaWk62e).
 
 ## 📝 Citation
 
 If you find our work useful for your research or application, please cite our paper:
+
 1. [AI2Apps](https://arxiv.org/abs/2404.04902?context=cs.SE)
 2. [AI2Agent](https://arxiv.org/abs/2503.23948)
 
@@ -31,6 +50,10 @@ If you find our work useful for your research or application, please cite our pa
 }
 ```
 
-## 📃 Get More
+## 📦 Build Agent
+
+If you want to build an agent yourself, you can refer to the [AgentBuilder](https://github.com/Avdpro/ai2apps/tree/main/agents/AgentBuilder) codes, which is the core codes that implement agent.
+
+## 📖 Get More
 
 If you want to get more details about AI2Agent, please see [Ai2Apps](https://github.com/Avdpro/ai2apps/blob/main/README.md). 
